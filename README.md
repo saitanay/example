@@ -73,7 +73,6 @@ Bhilai
 Cuttack
 Firozabad
 Kochi
-Nellore[14][15]
 Bhavnagar
 Dehradun
 Durgapur
