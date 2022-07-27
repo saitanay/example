@@ -1,8 +1,6 @@
 City
 Mumbai
 Delhi
-Bangalore
-Hyderabad
 Ahmedabad
 Chennai
 Kolkata
