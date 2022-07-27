@@ -8,8 +8,6 @@ Chennai
 Kolkata
 Surat
 Pune
-Jaipur
-Lucknow
 Kanpur
 Nagpur
 Indore
