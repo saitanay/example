@@ -15,6 +15,8 @@ Thane
 Bhopal
 Visakhapatnam[4]
 Pimpri-Chinchwad
+Patna
+Vadodara
 Ghaziabad
 Ludhiana
 Agra
