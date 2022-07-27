@@ -315,6 +315,7 @@ Tadepalligudem
 Amaravati
 Buxar[34]
 Tezpur
+Taranaka
 Jehanabad[35]
 Aurangabad[36]
 Gangtok
